@@ -4,7 +4,7 @@ This is a simple game build using C and the unity game engine.
 
 ## Aim of the game
 
-To staty on the path for as long as possible. The longer you stay on... the higer your score will be!
+You are challanged to stay on the radomised zag-zagging path for as long as possible. The longer you stay on... the higer you will score!
 
 **Click on the image below to see the game getting played on YouTube.**
 
@@ -19,8 +19,7 @@ Goodluck!
 
 
 Note: This is not a new concept. The idea has been though of well before I built this. This project was designed to give me experience in
-building and launching to the google play store. About a year after its publication to the google play store, it was removed. However this is not
-a problem. The aim of this project was for me to learn.
+building and launching an app to the Google Play Store. About a year after its publication to the Google Play Store, it was removed. However this is not a problem. The aim of this project was simply for me to learn.  
 
 
 *All missions acomplished*
